@@ -72,6 +72,6 @@ A plataforma PotiWork usará as tecnologias Next (frontend), Node (backend) e Po
 
 Para o Front-End, optei pelo Next por causa da minha familiaridade com o trabalho, bem como NodeJs para Back-end e Postgress para o Banco.
 
-## Diagrama de Componentes - Dimenlogia
+## Diagrama de Componentes - PotiWork
 
-![diagrama-componentes-dimenlogia](imagens/Classe%20UML%20-%20P%C3%A1gina%202.png)
+![diagrama-componentes-potiwork](imagens/Classe%20UML%20-%20P%C3%A1gina%202.png)
