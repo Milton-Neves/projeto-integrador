@@ -47,6 +47,8 @@ Aqui, dou início a pesquisa, definição e documentação inicial das etapas do
 ### Documentação Telas
 
 Link do projeto no Figma: https://www.figma.com/file/p638Wyaahkh8vSYhMlH83L/POTIWORK?type=design&t=q1wj1xaa0LooNoap-0
+
+
 I - PÁGINAS
 
 Tela 1 - Na tela de início (HOME), além do NavBar, existe um pouco sobre a proposta no título "Mostre o seu Talento".
