@@ -46,6 +46,7 @@ Aqui, dou início a pesquisa, definição e documentação inicial das etapas do
 
 ### Documentação Telas
 I - PÁGINAS
+
 Tela 1 - Na tela de início (HOME), além do NavBar, existe um pouco sobre a proposta no título "Mostre o seu Talento".
 Nesta mesma página, é possível encontrar as regras e diretrizes do site (PDF, disponível para download em "VER REGRAS").
 Também, é possível contratar, oferecer e visualizar cursos relacionados à área.
@@ -69,9 +70,13 @@ Neste mesmo componente encontram-se as sinalizações de notificação (contatos
 Também, a área de perfil do usuário, na qual consta as configurações deste e sobre a acessibildiade.
 
 Ainda nesta tela, encontram-se Cards que direcionam para outras telas, são elas:
+
 Card FREELANCERS - Encaminha à uma tela da rede de contatos com outros profissionais, clientes e ou empresas.
+
 Card CONTRATOS - O qual consta todos os contratos e status deste usuário.
+
 Card PORTFÓLIO - Apresenta a tela com todos os trabalhos realizados por este usuário, tanto como desenvolvedor, quanto que cliente.
+
 Card FINANÇAS - Direciona para a tela que apresenta as transações financeiras realizadas por este usuário e ou empresa.
 
 ## Levantamento de Requisitos
