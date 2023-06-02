@@ -69,10 +69,10 @@ Neste mesmo componente encontram-se as sinalizações de notificação (contatos
 Também, a área de perfil do usuário, na qual consta as configurações deste e sobre a acessibildiade.
 
 Ainda nesta tela, encontram-se Cards que direcionam para outras telas, são elas:
-> No primeiro card, FREELANCERS, mostra a uma tela da rede de contatos com outros profissionais, clientes e ou empresas.
-> Clicando no card CONTRATOS, no qual consta todos os contratos e status deste usuário.
-> O Card PORTFÓLIO, apresenta a tela com todos os trabalhos realizados por este usuário, tanto como desenvolvedor, quanto que cliente.
-> Por último, o Card de FINANÇAS, que direciona para a tela que apresenta as transações financeiras realizadas por este usuário e ou empresa.
+Card FREELANCERS - Encaminha à uma tela da rede de contatos com outros profissionais, clientes e ou empresas.
+Card CONTRATOS - O qual consta todos os contratos e status deste usuário.
+Card PORTFÓLIO - Apresenta a tela com todos os trabalhos realizados por este usuário, tanto como desenvolvedor, quanto que cliente.
+Card FINANÇAS - Direciona para a tela que apresenta as transações financeiras realizadas por este usuário e ou empresa.
 
 ## Levantamento de Requisitos
 
