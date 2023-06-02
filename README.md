@@ -45,6 +45,8 @@ O tema escolhido foi tomado por base em outro sistema já existente, com impleme
 Aqui, dou início a pesquisa, definição e documentação inicial das etapas do processo, que segue até a fase de implementação e testes
 
 ### Documentação Telas
+
+Link do projeto no Figma: https://www.figma.com/file/p638Wyaahkh8vSYhMlH83L/POTIWORK?type=design&t=q1wj1xaa0LooNoap-0
 I - PÁGINAS
 
 Tela 1 - Na tela de início (HOME), além do NavBar, existe um pouco sobre a proposta no título "Mostre o seu Talento".
