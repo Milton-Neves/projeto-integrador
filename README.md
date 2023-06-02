@@ -63,11 +63,12 @@ Tela 6 - A última tela é a "Fale Conosco", cuja qual o usuário terá a possib
 
 II - GERENCIADOR
 
-Tela 1 - É a tela de login, na qual, o usuário vai entrar em seu ambiente virtual. Caso este usuário não possua cadastro, é possível realizá-lo na tela 2.1 (cadastro) e ou, caso ja possua cadastro, o perfil em si.
+Tela 1 - É a tela de LOGIN, na qual o usuário vai entrar em seu ambiente virtual. Caso este usuário não possua cadastro, é possível realizá-lo através da subtela (cadastro). Caso tenha, basta preencher os itens e clicar em ENTRAR.
 
-Tela 2 - No navbar, é possivel publicar um projeto clicando no botão "Publique um Projeto".
-Neste mesmo componente encontram-se as sinalizações de notificação (contatos, mensagens de outros usuários, contratos e outros).
-Também, a área de perfil do usuário, na qual consta as configurações deste e sobre a acessibildiade.
+Tela 2 - No ambiente do usuário existe um NAVBAR, onde é possivel publicar um projeto clicando no botão "PUBLIQUE UM PROJETO".
+Neste mesmo componente encontram-se as sinalizações de notificação (contatos, mensagens de outros usuários, contratos e outros), representados por um sino.
+
+Também, a área de PERFIL DO USUÁRIO, na qual consta as configurações deste e sobre a acessibilidade.
 
 Ainda nesta tela, encontram-se Cards que direcionam para outras telas, são elas:
 
