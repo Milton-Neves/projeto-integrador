@@ -64,11 +64,15 @@ II - GERENCIADOR
 
 Tela 1 - É a tela de login, na qual, o usuário vai entrar em seu ambiente virtual. Caso este usuário não possua cadastro, é possível realizá-lo na tela 2.1 (cadastro) e ou, caso ja possua cadastro, o perfil em si.
 
-Tela 2 - No navbar, é possivel publicar um projeto clicando no botão "publique um projeto". Nesta mesma tela tem as sinalizações de notificação (contatos, mensagens de outros usuários, contratos e outros). Também, a área de perfil, na qual consta as configurações e acessibildiade.
-Ainda nesta tela, encontram-se cards com páginas para Freelancers, que é uma espécie de rede de contatos com outros profissionais, clientes e ou empresas.
-Há, também, o card "contratos", onde consta todos os contratos e status destes, no dono do perfil.
-O Card "portfólio" apresenta todos os trabalhos realizados por este usuário.
-O Card de "finanças", direciona para a página de finanças, acordos tratados e outros por este usuário e ou empresa.
+Tela 2 - No navbar, é possivel publicar um projeto clicando no botão "Publique um Projeto".
+Neste mesmo componente encontram-se as sinalizações de notificação (contatos, mensagens de outros usuários, contratos e outros).
+Também, a área de perfil do usuário, na qual consta as configurações deste e sobre a acessibildiade.
+
+Ainda nesta tela, encontram-se Cards que direcionam para outras telas, são elas:
+> No primeiro card, FREELANCERS, mostra a uma tela da rede de contatos com outros profissionais, clientes e ou empresas.
+> Clicando no card CONTRATOS, no qual consta todos os contratos e status deste usuário.
+> O Card PORTFÓLIO, apresenta a tela com todos os trabalhos realizados por este usuário, tanto como desenvolvedor, quanto que cliente.
+> Por último, o Card de FINANÇAS, que direciona para a tela que apresenta as transações financeiras realizadas por este usuário e ou empresa.
 
 ## Levantamento de Requisitos
 
