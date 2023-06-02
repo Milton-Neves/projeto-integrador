@@ -49,7 +49,7 @@ Aqui, dou início a pesquisa, definição e documentação inicial das etapas do
 Link do projeto no Figma: https://www.figma.com/file/p638Wyaahkh8vSYhMlH83L/POTIWORK?type=design&t=q1wj1xaa0LooNoap-0
 
 
-![pdf-telas-potiwork](imagens/POTIWORK.pdf)
+![pdf-telas-potiwork][imagens/POTIWORK.pdf]
 
 
 I - PÁGINAS
@@ -118,3 +118,5 @@ Para o Front-End, optei pelo Next por causa da minha familiaridade com o trabalh
 ## Diagrama de Componentes - PotiWork
 
 ![diagrama-componentes-potiwork](imagens/Classe%20UML%20-%20P%C3%A1gina%202.png)
+
+[def]: imagens/POTIWORK.pdf
