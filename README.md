@@ -5,27 +5,29 @@
 * Projeto integrador
 
 ```mermaid
-    gantt
+gantt
     title Projeto PotyWork
     dateFormat  YYYY-MM-DD
 
     section Planejamento
     Tema           :a1, 2023-05-05, 5d
-    Documentação Inicial     :after a1  , 30d
+    Documentação Inicial     :after a1  , 20d
 
     section Requisitos
-    Levantamento de Requisitos      :2023-05-11  , 8d
+    Definição de Requisitos      :2023-05-25  , 7d
 
-    section Desenvolvimento Inicial
-    Preparação do ambiente      :2023-05-19  , 1d
+    section Desenvolvimento
+    Design de Interface (UI / UX)      :2023-06-01  , 4d
 
-    section Implementação e Testes
-    Implementação      :2023-05-19  , 14d
-    Testes     : 7d
+    section Implementação Backend
+    Desenvolvimento Backend      :2023-06-05  , 10d
 
-    section Documentação e Defesa
-    Documentação Final      :2023-06-09  , 3d
-    Defesa      : 1d
+    section Implementação Frontend
+    Desenvolvimento Frontend      :2023-06-16  , 9d
+
+    section Entrega
+    Documentação Final      :2023-06-30  , 12d
+    Apresentação: 2023-07-12  , 1d
 
 ```
 
